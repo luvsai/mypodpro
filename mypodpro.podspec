@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = "mypodpro"
-s.version = "0.2.0"
+s.version = "0.2.2"
 s.summary = "<My summary>"
 s.description = "<MUST BE LONGER THAN SUMMARY>"
 s.homepage = "https://github.com/luvsai/mypodpro.git"
